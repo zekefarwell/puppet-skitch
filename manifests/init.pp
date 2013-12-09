@@ -6,6 +6,6 @@
 class skitch {
   package { 'Skitch':
     provider => 'compressed_app',
-    source   => 'http://evernote.com/download/get.php?file=SkitchMac'
+    source   => 'http://cdn1.evernote.com/skitch/mac/release/Skitch-2.7.1.zip'
   }
 }
